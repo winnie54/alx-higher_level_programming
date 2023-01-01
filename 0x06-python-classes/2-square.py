@@ -1,5 +1,3 @@
-able File  18 lines (15 sloc)  484 Bytes
-
 #!/usr/bin/python3
 """ class Square that defines a square"""
 
